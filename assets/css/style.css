@@ -79,14 +79,16 @@ header {
   font-size: 30px;
 }
 
-.foto1 {
+.dfoto1 {
   background-color: white;
-  margin: 30px;
   border-bottom: 2px solid #dee1e3;
 }
-.foto1 {
+.foto2 {
   background-color: white;
-  margin: 30px;
+  border-bottom: 2px solid #dee1e3;
+}
+.foto3 {
+  background-color: white;
   border-bottom: 2px solid #dee1e3;
 }
 
@@ -111,11 +113,20 @@ p {
 }
 
 em {
-  font-size: 15px;
+  font-size: 20px;
+  padding-left: 30px;
+}
+dt {
+  font-size: 30px;
+  font-weight: bold;
+  font-family: "Montserrat", sans-serif;
+  padding-bottom: 30px;
 }
 
 .Mario {
   font-size: 20px;
+  padding-top: 30px;
+  padding-bottom: 0;
 }
 
 .piccolo {
@@ -124,5 +135,6 @@ em {
 }
 
 .contatti {
-  background-color: blue;
+  background-color: #25a2c3;
+  color: white;
 }
