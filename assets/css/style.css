@@ -21,6 +21,7 @@ h1 {
   padding-top: 50px;
   font-size: 45px;
   margin-bottom: 10px;
+  line-height: 3rem;
 }
 
 h3 {
@@ -41,20 +42,20 @@ header {
 
 .banner {
   background-image: url(../img/banner.jpg);
- /* background-size: 600px;
+  /* background-size: 600px;
   background-position-y: 550px;
   background-position-x: 600px;
   background-attachment: fixed;
   font-size: 30px;*/
   background-size: cover;
   background-position: 50%;
-
 }
 .banner p {
-  font-size: 25px;
+  font-size: 21px;
   padding: 50px;
   padding-top: 1px;
   margin-bottom: 50px;
+  line-height: 2rem;
 }
 
 .banner a {
@@ -143,9 +144,9 @@ h5 {
 }
 p {
   font-size: 20px;
+  line-height: 2rem;
   padding-left: 70px;
   padding-right: 70px;
-  margin-bottom: 20px;
 }
 
 em {
