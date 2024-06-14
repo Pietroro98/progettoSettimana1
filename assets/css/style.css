@@ -79,17 +79,45 @@ header {
   font-size: 30px;
 }
 
-.dfoto1 {
+/*.foto1 {
   background-color: white;
-  border-bottom: 2px solid #dee1e3;
+  border: 1px solid #dee1e3;
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: auto;
+  width: 90%;
 }
+
 .foto2 {
   background-color: white;
-  border-bottom: 2px solid #dee1e3;
+  border-bottom: 1px solid #dee1e3;
 }
 .foto3 {
   background-color: white;
-  border-bottom: 2px solid #dee1e3;
+  border-bottom: 1px solid #dee1e3;
+}*/
+img {
+  width: 100%;
+}
+
+.foto1 {
+  border: 1px solid #dee1e3;
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 40px;
+}
+.foto2 {
+  border: 1px solid #dee1e3;
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 40px;
+}
+.foto3 {
+  border: 1px solid #dee1e3;
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 40px;
+  margin-bottom: 90px;
 }
 
 h5 {
@@ -139,6 +167,8 @@ footer {
   background-color: #25a2c3;
   color: white;
   font-size: 20px;
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 
  {
