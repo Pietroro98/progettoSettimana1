@@ -41,27 +41,24 @@ header {
   background-position-y: 550px;
   background-position-x: 600px;
   background-attachment: fixed;
-  font-size: 30pxpx;
+  font-size: 30px;
 }
 .banner p {
   font-size: 25px;
   padding: 50px;
-  margin: px;
   padding-top: 1px;
-  margin-bottom: 1px;
+  margin-bottom: 50px;
 }
 
-.banner a{
-  font-size: 20px;
+.banner a {
+  font-size: 15px;
   font-weight: bold;
   background-color: #f04c2f;
   color: white;
   border-radius: 5px;
-  margin-left: 33%;
-  margin-right: 33%;
-  padding: 10px;
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding: 15px;
+  text-align: center;
+  text-decoration: none;
 }
 .cerchio img {
   width: 350px;
@@ -82,27 +79,29 @@ header {
   font-size: 30px;
 }
 
-.foto1{
+.foto1 {
   background-color: white;
   margin: 30px;
   border-bottom: 2px solid #dee1e3;
 }
-.foto1{
-    background-color: white;
-    margin: 30px;
-    border-bottom: 2px solid #dee1e3;
+.foto1 {
+  background-color: white;
+  margin: 30px;
+  border-bottom: 2px solid #dee1e3;
 }
 
-h5{
-    color: #25a2c3;
-    padding-top: 20px;
-    margin-bottom: 10px;
+h5 {
+  color: #25a2c3;
+  padding-top: 20px;
+  margin-bottom: 10px;
 }
-.foto1 p, .foto2 p, .foto3 p{
-    font-size: 18px;
-    padding-left: 20px ;
-    padding-right: 20px;
-    margin-bottom: 40px;
+.foto1 p,
+.foto2 p,
+.foto3 p {
+  font-size: 18px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-bottom: 40px;
 }
 p {
   font-size: 20px;
