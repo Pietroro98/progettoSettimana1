@@ -134,7 +134,9 @@ dt {
   margin-top: 0;
 }
 
-.contatti {
+footer{
+  font-family: "Montserrat", sans-serif;
   background-color: #25a2c3;
   color: white;
+  font-size: 20px;
 }
