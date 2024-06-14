@@ -34,6 +34,11 @@ header {
   padding: 8%;
 }
 
+.logo {
+  width: 150px;
+  padding-left: 130px;
+}
+
 .banner {
   background-image: url(../img/banner.jpg);
   background-size: 600px;
